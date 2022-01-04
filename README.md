@@ -1,5 +1,4 @@
-# brightscript-learning
-BrightScript Learning
+# BrightScript Learning
 ### Step 1. Install and setup Roku Emulator: 
 - MacOS: https://github.com/lvcabral/brs-emu/releases/download/v0.9.0-emu/brsEmuApp-0.9.0-macOS.dmg 
 - Windows: https://github.com/lvcabral/brs-emu/releases/download/v0.9.0-emu/brsEmuApp-0.9.0-windows.exe 
