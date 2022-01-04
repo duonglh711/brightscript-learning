@@ -32,9 +32,10 @@ function uploadOneFile(path, url) {
 
     request.post(url, options, function (error, res, body) {
         if (error) {
-            console.error(body);
+            console.error("Failed to upload!");
+            console.error(error);
         } else if (res.statusCode !== 200) {
-            console.error("Failed to upload! statusCode: %s", res.statusCode);
+            console.error("Failed to upload! status code: %s", res.statusCode);
         } else {
             console.info("Uploaded successfully");
         }
