@@ -9,10 +9,13 @@
 npm install
 ```
 
-### Step 4. Change 'deviceIP' in main.js
+### Step 4. Change 'deviceIP' in main.js. Change it to your computer's ip, usually in the form 192.168.xxx.xxx.
 
-### Step 5. Open Developtools In Emulator (Install in Step 1):  
+### Step 5. Open Developtools and allow Application Installer (to install package):  
 ![image](https://user-images.githubusercontent.com/89597412/148057190-81d07251-6730-4ead-8ef3-acee83fc58d1.png)
+
+![image](https://user-images.githubusercontent.com/89597412/148872139-b8153176-bd48-437b-ba11-c90182207248.png)
+
 
 ### Step 6. Build and upload package: 
 ```bash
